@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InstrExchangeXGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InstrExchangeXGenerator_jar</output-path>
+    <root id="archive" name="InstrExchangeXGenerator.jar">
+      <element id="module-output" name="InstrExchangeXGenerator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/tinylog-1.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/progressbar-0.7.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jline-3.6.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
